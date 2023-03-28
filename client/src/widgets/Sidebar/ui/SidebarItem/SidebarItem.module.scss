@@ -1,0 +1,15 @@
+.item {
+    display: flex;
+    align-items: center;
+
+    .icon {
+        width: 30px;
+        height: 30px;
+        transition: 200ms;
+    }
+}
+
+.link {
+    margin-left: 10px;
+    opacity: 1;
+}
